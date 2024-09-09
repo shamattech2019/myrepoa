@@ -1,0 +1,12 @@
+1 try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shell...
+   2 la
+   3 ls
+   4 ls -ll
+   5 lsa
+   6 ls
+   7 l
+   8 git status
+   9 git add index.html
+  10 git status
+  11 git commit -m "first try"
+  12 git branch
